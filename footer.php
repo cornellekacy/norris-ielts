@@ -5,7 +5,7 @@
 							<div class="single-footer-widget">
 								<h4>About Us</h4>
 								<p>
-									Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore dolore magna aliqua.
+									We are producers and quality sellers of real and fake documents. We process and produce documents that you can use to travel and work in any part of the world.
 								</p>
 							</div>
 						</div>
@@ -13,7 +13,7 @@
 							<div class="single-footer-widget">
 								<h4>Contact Us</h4>
 								<p>
-									Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore dolore magna aliqua.
+									Our services are the best and we make sure our clients are satisfied as we serve them. if you want to get intouch with us, just dial the number bellow or send us a message via our email
 								</p>
 								<p class="number">
 									012-6532-568-9746 <br>
@@ -44,19 +44,7 @@
 							</div>
 						</div>						
 					</div>
-					<div class="footer-bottom row">
-						<p class="footer-text m-0 col-lg-6 col-md-12">
-							<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-						</p>
-						<div class="footer-social col-lg-6 col-md-12">
-							<a href="#"><i class="fa fa-facebook"></i></a>
-							<a href="#"><i class="fa fa-twitter"></i></a>
-							<a href="#"><i class="fa fa-dribbble"></i></a>
-							<a href="#"><i class="fa fa-behance"></i></a>
-						</div>
-					</div>
+
 				</div>
 			</footer>	
 			<!-- End footer Area -->

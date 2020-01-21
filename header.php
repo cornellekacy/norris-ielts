@@ -4,7 +4,7 @@
 		<!-- Mobile Specific Meta -->
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<!-- Favicon-->
-		<link rel="shortcut icon" href="img/fav.png">
+		<link rel="shortcut icon" href="img/elements/f1.jpg">
 		<!-- Author Meta -->
 		<meta name="author" content="codepixer">
 		<!-- Meta Description -->
@@ -41,7 +41,7 @@
 			    			</span>
 			    		</div>
 			    		<div class="col-lg-4 menu-top-middle justify-content-center d-flex">
-							<a href="index.html">
+							<a href="index.php">
 								<img class="img-fluid" src="img/logo.png" alt="">	
 							</a>			    			
 			    		</div>
@@ -56,12 +56,12 @@
 			    	<div class="row align-items-center justify-content-center d-flex">
 				      <nav id="nav-menu-container">
 				        <ul class="nav-menu">
-				          <li class="menu-active"><a href="index.html">Home</a></li>
+				          <li class="menu-active"><a href="index.php">Home</a></li>
 				          <li><a href="about.php">About</a></li>
 				          <li><a href="services.php">Services</a></li>
-				          <li><a href="immigration-list.php">Immigration</a></li>	
-				          <li><a href="ielts.php">Ielts</a></li>
-				          <li><a href="visa.php">Visa</a></li>				          
+				          <!-- <li><a href="immigration-list.php">Immigration</a></li> -->	
+				          <li><a href="ielts.php">Ielts Certificate</a></li>
+				          <li><a href="reviews.php">Reviews</a></li>				          
 				          <li><a href="contact.php">Contact</a></li>
 				        </ul>
 				      </nav><!-- #nav-menu-container -->		    		

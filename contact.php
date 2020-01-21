@@ -50,7 +50,7 @@
 								</div>
 							</div>														
 						</div>
-						<div class="col-lg-8">
+						<div class="col-lg-8 booking-right">
 							    <?php
 // Import PHPMailer classes into the global namespace
 // These must be at the top of your script, not inside a function
@@ -74,14 +74,14 @@ if (array_key_exists('email', $_POST)) {
     $mail->isSMTP();
      $mail->SMTPDebug = SMTP::DEBUG_SERVER; 
 $mail->SMTPSecure = 'tls';
-$mail->Host = 'smtp.yandex.com';
+$mail->Host = 'smtp.gmail.com';
 $mail->Port = 587;
 //Whether to use SMTP authentication
 $mail->SMTPAuth = true;
 //Username to use for SMTP authentication - use full email address for gmail
-$mail->Username = "contact@petflyrelocation.com";
+$mail->Username = "cornellekacy4@gmail.com";
 //Password to use for SMTP authentication
-$mail->Password = "petflyrelocation45";
+$mail->Password = "corellekacy456";
     //Use a fixed address in your own domain as the from address
     //**DO NOT** use the submitter's address here as it will be forgery
     //and will cause your messages to fail SPF checks
@@ -99,7 +99,8 @@ $mail->Password = "petflyrelocation45";
         $mail->Body = <<<EOT
 Email: {$_POST['email']}
 Name: {$_POST['name']}
-Subject: {$_POST['subject']}
+Phone Number: {$_POST['phone']}
+Contact TYpe: {$_POST['select1']}
 Message: {$_POST['message']}
 EOT;
         //Send the message, check for errors
@@ -119,25 +120,29 @@ EOT;
 }
 
 ?>
-							<form class="form-area"  method="post" class="contact-form text-right">
-								<div class="row">	
-									<div class="col-lg-6 form-group">
-										<label><b>Full Name</b></label>
-										<input name="name" placeholder="Enter your name" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter your name'" class="common-input mb-20 form-control" required="" type="text">
-										<label><b>Email</b></label>
-										<input name="email" placeholder="Enter email address" pattern="[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{1,63}$" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter email address'" class="common-input mb-20 form-control" required="" type="email">
-										<label><b>Subject</b></label>
-										<input name="subject" placeholder="Enter your subject" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter your subject'" class="common-input mb-20 form-control" required="" type="text">
-										<div class="mt-20 alert-msg" style="text-align: left;"></div>
+				
+								<h4 class="mb-20">Contact Us Now</h4>
+								<form action="#" method="post">
+									<label><b>Full Name</b></label>
+									<input class="form-control" type="text" name="name" placeholder="Your name" required>
+									<label><b>Email</b></label>
+									<input class="form-control" type="email" name="email" placeholder="Email Address" required>
+									<label><b>Phone Number</b></label>
+									<input class="form-control" type="text" name="phone" placeholder="Phone Number">
+									<label><b>Select</b></label>
+							       	<div class="default-select" id="default-select">
+										<select name="select1">
+											<option value="" disabled selected hidden>Select Type</option>
+											<option value="1">Visa</option>
+											<option value="1">Ielts</option>
+										
+										</select>
 									</div>
-									<div class="col-lg-6 form-group">
-										<label><b>Messege</b></label>
-										<textarea class="common-textarea form-control" name="message" placeholder="Messege" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Messege'" required=""></textarea>
-										<button class="primary-btn mt-20 text-white" type="submit" style="float: right;">Send Message</button>
-																				
-									</div>
-								</div>
-							</form>	
+									<label><b>Messege</b></label>
+									<textarea class="common-textarea form-control mt-10" name="message" placeholder="Messege" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Messege'"></textarea>
+									<button  class="btn btn-default btn-lg btn-block text-center">Send Message</button>
+								</form>
+						
 						</div>
 					</div>
 				</div>	
