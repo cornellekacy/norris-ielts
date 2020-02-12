@@ -27,8 +27,13 @@
 									<span class="lnr lnr-home"></span>
 								</div>
 								<div class="contact-details">
-									<h5>Dhaka, Bangladesh</h5>
-									<p>56/8, West Panthapath</p>
+									<h5>91 Western Road Brighton</h5>
+									<p>East Sussex, England, BN1 2NW</p>
+								</div>
+								<div class="contact-details">
+									<h5>British Embassy Winston Churchill Avenue
+</h5>
+									<p>Yaoundé, Republic of Cameroon</p>
 								</div>
 							</div>
 							<div class="single-contact-address d-flex flex-row">
@@ -36,7 +41,7 @@
 									<span class="lnr lnr-phone-handset"></span>
 								</div>
 								<div class="contact-details">
-									<h5>00 (880) 9865 562</h5>
+									<h5>+1 (805) 398-8263</h5>
 									<p>Mon to Fri 9am to 6 pm</p>
 								</div>
 							</div>

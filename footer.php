@@ -16,7 +16,7 @@
 									Our services are the best and we make sure our clients are satisfied as we serve them. if you want to get intouch with us, just dial the number bellow or send us a message via our email
 								</p>
 								<p class="number">
-									012-6532-568-9746
+									+1 (805) 398-8263
 								</p>
 							</div>
 						</div>						
@@ -27,7 +27,7 @@
 								<div class="d-flex flex-row" id="mc_embed_signup">
 
 
-									  <form class="navbar-form" novalidate="true" action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01" method="get">
+									  <form class="navbar-form" novalidate="true" action="" method="get">
 									    <div class="input-group add-on align-items-center d-flex">
 									      	<input class="form-control" name="EMAIL" placeholder="Email address" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Email address'" required="" type="email">
 											<div style="position: absolute; left: -5000px;">

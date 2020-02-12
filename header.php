@@ -4,7 +4,7 @@
 		<!-- Mobile Specific Meta -->
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<!-- Favicon-->
-		<link rel="shortcut icon" href="img/elements/f1.jpg">
+<!-- 		<link rel="shortcut icon" href="img/elements/f1.jpg"> -->
 		<!-- Author Meta -->
 		<meta name="author" content="codepixer">
 		<!-- Meta Description -->
@@ -46,8 +46,8 @@
 							</a>			    			
 			    		</div>
 			    		<div class="col-lg-4 col-sm-4 menu-top-right">
-			    			<a class="tel" href="tel:+880 123 12 658 439">+880 123 12 658 439</a>
-			    			<a href="tel:+880 123 12 658 439"><span class="lnr lnr-phone-handset"></span></a>
+			    			<a class="tel" href="tel:+1 (805) 398-8263">+1 (805) 398-8263</a>
+			    			<a href="tel:+1 (805) 398-8263"><span class="lnr lnr-phone-handset"></span></a>
 			    		</div>
 			    	</div>
 			    </div>	
