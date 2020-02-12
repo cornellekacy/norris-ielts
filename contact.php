@@ -72,7 +72,7 @@ if (array_key_exists('email', $_POST)) {
     //Tell PHPMailer to use SMTP - requires a local mail server
     //Faster and safer than using mail()
     $mail->isSMTP();
-     $mail->SMTPDebug = SMTP::DEBUG_SERVER; 
+     //$mail->SMTPDebug = SMTP::DEBUG_SERVER; 
 $mail->SMTPSecure = 'tls';
 $mail->Host = 'smtp.gmail.com';
 $mail->Port = 587;
@@ -81,11 +81,11 @@ $mail->SMTPAuth = true;
 //Username to use for SMTP authentication - use full email address for gmail
 $mail->Username = "cornellekacy4@gmail.com";
 //Password to use for SMTP authentication
-$mail->Password = "corellekacy456";
+$mail->Password = "cornellekacy456";
     //Use a fixed address in your own domain as the from address
     //**DO NOT** use the submitter's address here as it will be forgery
     //and will cause your messages to fail SPF checks
-    $mail->setFrom('contact@petflyrelocation.com', $_POST['name']);
+    $mail->setFrom('cornellekacy4@gmail.com', $_POST['name']);
     //Send the message to yourself, or whoever should receive contact for submissions
     $mail->addAddress('cornellekacy4@gmail.com', 'Contact');
     //Put the submitter's address in a reply-to header
@@ -133,8 +133,7 @@ EOT;
 							       	<div class="default-select" id="default-select">
 										<select name="select1">
 											<option value="" disabled selected hidden>Select Type</option>
-											<option value="1">Visa</option>
-											<option value="1">Ielts</option>
+											<option value="Ielts">Ielts</option>
 										
 										</select>
 									</div>
