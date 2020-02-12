@@ -45,7 +45,7 @@
 									<span class="lnr lnr-envelope"></span>
 								</div>
 								<div class="contact-details">
-									<h5>support@codethemes.com</h5>
+									<h5>contact@global-ielts-immigration.com</h5>
 									<p>Send us your query anytime!</p>
 								</div>
 							</div>														

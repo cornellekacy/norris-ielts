@@ -108,7 +108,7 @@ HOW TO BUY IELTS CERTIFICATE HOW TO GET IELTS CERTIFICATE WITHOUT EXAM HOW TO GE
 							<p class="text-white pt-20 pb-20">
 								Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  et dolore <br> magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.
 							</p>
-							<a class="primary-btn" href="apply.php">Apply For Ielts</a>							
+							<a class="primary-btn" href="contact.php">Apply For Ielts</a>							
 						</div>
 					</div>
 				</div>	

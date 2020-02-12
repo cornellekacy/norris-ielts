@@ -16,8 +16,7 @@
 									Our services are the best and we make sure our clients are satisfied as we serve them. if you want to get intouch with us, just dial the number bellow or send us a message via our email
 								</p>
 								<p class="number">
-									012-6532-568-9746 <br>
-									012-6532-569-9748
+									012-6532-568-9746
 								</p>
 							</div>
 						</div>						
