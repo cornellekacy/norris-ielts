@@ -97,7 +97,7 @@ $mail->Password = "cornellekacy456";
     //This will fail if the address provided is invalid,
     //in which case we should ignore the whole request
     if ($mail->addReplyTo($_POST['email'], $_POST['name'])) {
-        $mail->Subject = 'Petfly Relocation';
+        $mail->Subject = 'Global Ielts Immigration';
         //Keep it simple - don't use HTML
         $mail->isHTML(false);
         //Build a simple message body
