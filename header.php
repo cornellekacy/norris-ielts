@@ -15,6 +15,8 @@
 		<meta charset="UTF-8">
 		<!-- Site Title -->
 		<title>Global Ielts Immigration</title>
+		<script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-f7e57dcd-b262-4cac-81e9-bb68c6257ee3"></div>
 
 		<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
 			<!--
